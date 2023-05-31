@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "UIesnXtDBmxQDWenAxgmSya3OxvGZkEphu4iRSnOx/1NCPRLVLpBWOo7C8k8iTswOJzNUkefg3/NzcVfnyEKDQ==",
+  "success": true,
+  "projectFilePath": "/Users/ncalteen/Workspace/chloe-game/AWSSDK/AWSSDK.csproj",
+  "expectedPackageFiles": [
+    "/Users/ncalteen/.nuget/packages/awssdk.core/3.7.106.44/awssdk.core.3.7.106.44.nupkg.sha512",
+    "/Users/ncalteen/.nuget/packages/awssdk.ec2/3.7.135.6/awssdk.ec2.3.7.135.6.nupkg.sha512",
+    "/Users/ncalteen/.nuget/packages/awssdk.s3/3.7.104.24/awssdk.s3.3.7.104.24.nupkg.sha512",
+    "/Users/ncalteen/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "/Users/ncalteen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ncalteen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ncalteen/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/ncalteen/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
